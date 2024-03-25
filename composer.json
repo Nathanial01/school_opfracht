@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Bordeling\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nati"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
+}
